@@ -1,0 +1,7 @@
+Game_name:ccls模拟器;
+Game_key:9fb2d0f32358cd8;
+Title_img:crt.png;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Package_name:;
+Game_Logo:crt.png;

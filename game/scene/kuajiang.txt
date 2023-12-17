@@ -1,0 +1,5 @@
+春城 留声:做得不错，|这是你一直想做的事情。 -fontSize=default -id;
+稍微出去玩吧，|就算是作为放松。 -fontSize=default;
+changeFigure:lihui-shy.png -next;
+春城 流风:那个，您周末有空的话，|可……可以邀请您一起去海边兜风吗？ -fontSize=default;
+choose:接受:yes.txt|拒绝:no.txt;

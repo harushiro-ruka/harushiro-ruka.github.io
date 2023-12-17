@@ -1,0 +1,16 @@
+春城 留声:不要做多余的事情。 -fontSize=default;
+changeFigure:lihui-sad.png;
+春城 流风:…… -fontSize=default;
+changeFigure:none;
+setTextbox:hide;
+changeBg:批评.jpg -transform={"scale":{"x":0.45,"y":0.45}};
+changeBg:crt.png;
+setTextbox:on;
+changeFigure:lihui-sad.png;
+:日子继续过着，好像没有什么变化|只是你发现他总是闷闷不乐 -fontSize=default;
+:某天，他突然由于药物过量被送到医院，|事后你在他的房间里发现了一些抗抑郁的药物。 -fontSize=default;
+changeFigure:none;
+setTextbox:hide;
+changeBg:心理健康.jpg -transform={"scale":{"x":0.9,"y":0.8}} -unlockname=be1;
+unlockCg:心理健康.jpg -name=be1;
+end;

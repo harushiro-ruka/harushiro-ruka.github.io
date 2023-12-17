@@ -1,0 +1,17 @@
+春城 留声:不用了，我不需要这种东西。 -fontSize=default;
+changeFigure:lihui-sad.png;
+春城 流风:…… -fontSize=default;
+setTextbox:hide;
+changeFigure:none;
+changeBg:车内.jpg;
+changeFigure:lihui-sad.png -left -id=1;
+setTextbox:on;
+:心中的焦躁和失落难以平息，|车速不断攀升…… -fontSize=default;
+:…… -fontSize=default;
+:……|……！！！ -fontSize=default;
+setTextbox:hide;
+setAnimation:shake2 -target=1;
+changeFigure: -id=1;
+changeBg:交通安全.jpg;
+unlockCg:交通安全.jpg;
+end;

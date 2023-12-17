@@ -1,0 +1,5 @@
+changeFigure: -left;
+changeFigure:lihui-normal.png;
+:在书房门口，你碰到迎面走来的流风|他的双颊微微泛红，看起来十分兴奋 -fontSize=default;
+春城 流风:父亲大人，|我终于考到驾照了哦~ -fontSize=default -center;
+choose:夸奖:kuajiang.txt|批评:piping.txt;

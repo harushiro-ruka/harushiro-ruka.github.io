@@ -1,0 +1,6 @@
+; 初始场景，以及特效演示
+intro:事件已经过去很久，|流风似乎比以往更加忙碌|今天，他回家稍晚一些…… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:crt.png -next;
+changeFigure:lihui-normal.png -left -next;
+
+choose:点击鉴赏小狗开车:scene1.txt;
